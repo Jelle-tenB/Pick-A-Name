@@ -19,3 +19,12 @@ This caught our attention and sparked our imagination. Why wasn’t something li
 
 ## Important notice
 If you want to test the front-end website locally ALSO run the API locally. Otherwise the cookie wont work.
+
+## Examples
+Filter page:
+
+![Filter page](https://github.com/Jelle-tenB/Pick-A-Name-show/blob/main/pictures/name-filter.png)
+
+Swipe page:
+
+![Swiping page](https://github.com/Jelle-tenB/Pick-A-Name-show/blob/main/pictures/name-filter.png)
