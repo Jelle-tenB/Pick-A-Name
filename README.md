@@ -27,4 +27,4 @@ Filter page:
 
 Swipe page:
 
-![Swiping page](https://github.com/Jelle-tenB/Pick-A-Name-show/blob/main/pictures/name-filter.png)
+![Swiping page](https://github.com/Jelle-tenB/Pick-A-Name-show/blob/main/pictures/name-swipe.png)
